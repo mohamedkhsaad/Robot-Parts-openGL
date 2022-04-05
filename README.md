@@ -193,4 +193,16 @@ also we made camera function & movements <br>
 - Shoulders Rotation independent 
 - Timer Function 
 - Spacebar Key
+<br>
 
+## **Animation**
+
+<img src="Images/animation.gif">
+
+## **Camera Movements**
+
+<img src="Images/Camera Movement.gif">
+
+## **Body Parts**
+
+<img src="Images/Body parts.gif">
