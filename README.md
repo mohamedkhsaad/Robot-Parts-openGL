@@ -1,4 +1,4 @@
-# **Graphics Task 2**
+# **OpenGL2**
 ## Full body movement  
 
 
